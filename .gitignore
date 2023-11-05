@@ -1,0 +1,4 @@
+data
+*.ipynb*
+contents/ign_*
+wandb
