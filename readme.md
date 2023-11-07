@@ -8,3 +8,5 @@ Unofficial implementation of [Idempotent Generative Networks](https://arxiv.org/
 ```bash
 python main.py
 ```
+
+For some reason its really difficult to get this right. I'm abandoning this for now.
